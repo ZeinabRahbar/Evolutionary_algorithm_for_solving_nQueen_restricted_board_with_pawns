@@ -1,0 +1,2 @@
+# Evolutionary_algorithm_for_solving_nQueen_restricted_board_with_pawns
+Here I employed an evolutionary algorithm that solve  n queen problem, but it is not the traditional n queen problem. In this problem there are fixed soldiers in our board which are randomly generated and then regarding this we should have employed the  evolutionary algorithm. The Persian report is available via contact, but English report not yet!
